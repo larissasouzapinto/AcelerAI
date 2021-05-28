@@ -8,8 +8,8 @@ Neste repositório, encontram-se os datasets e notebooks Python usados durante o
 
 1. Metodologia 
     1. Introdução ao data science - RoadMap
-    2. Metodologia
-    3. Motivações, estado da arte
+    2. Motivações e estado da arte
+    3. Metodologia do curso
 2. Python para data science
     1. Environment set-up (Colab) Interface colab/github
     2. Introdução ao Python
