@@ -34,5 +34,5 @@ Neste repositório, encontram-se os datasets e notebooks Python usados durante o
     4. Logistic Regression
     5. Comparação de modelos
 6. Propondo uma solução para um problema real
-    1. Aplicação da metodologia para aplicação de projeto real
-    2. Proposta de projeto
+    1. Aplicação da metodologia em um projeto real
+    2. Projeto de previsão de estado de uma Máquina CNC
