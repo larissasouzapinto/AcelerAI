@@ -10,30 +10,29 @@ Neste repositório, encontram-se os datasets e notebooks Python usados durante o
     1. Introdução ao data science - RoadMap
     2. Metodologia
     3. Motivações, estado da arte
-2. Python para data science
-    1. Environment set-up (Colab) Interface colab/github
-    2. Introdução ao Python
-    3. Jupyter tutorial
-    4. Numpy
-    5. Pandas
-3. Introdução a estatística e análise de dados
-    1. Introdução
-    2. Medidas de tendencia Central
-    3. Estimativas de variabilidade
-    4. Distribuição de Dados
-    5. Correlação
-4. Exploratory data analysis (EDA)
-    1. Data visualization & Storytelling
-    2. Missing value analysis
-    3. Feature importance
-    4. Outlier detection analysis
+2. Revisão sobre linguagem Python
+    1. Tutorial Google Colab e Jupyter Notebook
+    2. Estruturas de dados em Python
+    3. Tuplas
+    4. Listas
+    5. Dicionários
+    6. Laços e Repetições
+    7. Estruturas condicionais
+    8. Funções
+3. Python para data science
+    1. Numpy
+    2. Pandas
+    3. Matplotlib
+4. Análise Exploratória
+    1. Estatística básica
+    2. Pre processamento
+    3. Análise Exploratória de dados (EDA)
 5. Introdução ao Aprendizado de Máquina
-    1. Supervised vs Unsupervised Learning
-    2. Tipos de técnicas de aprendizado (SVM, KNN, DT, LR...)
-    3. Problema de classificação
-    4. Model Evaluation: Métricas, Overfitting & Underfitting
+    1. Decision Tree
+    2. Support Vector Machine
+    3. K Nearest Neighbors
+    4. Logistic Regression
+    5. Comparação de modelos
 6. Propondo uma solução para um problema real
-    1. Data preparation
-    2. Model fitting
-    3. Evaluation and Visualization
-    4. Noções de deployment para empresas
+    1. Aplicação da metodologia para aplicação de projeto real
+    2. Proposta de projeto
